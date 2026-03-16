@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Devansh Sharma</h1>
-<h3 align="center">A Smart Contract Developer from India</h3>
+<h3 align="center">SDE at Fluxor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devansh042005&label=Profile%20views&color=0e75b6&style=flat" alt="devansh042005" /> </p>
 
 <p align="left"> <a href="https://twitter.com/devansh_s05" target="blank"><img src="https://img.shields.io/twitter/follow/devansh_s05?logo=twitter&style=for-the-badge" alt="devansh_s05" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Blockchain Development**
+- 🌱 **Full Stack Web3 Engineer**
 
 - 💬 Ask me about **Web3 Stuff , Blockchains , Smart Contract**
 
